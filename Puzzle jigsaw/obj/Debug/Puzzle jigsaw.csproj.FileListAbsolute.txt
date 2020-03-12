@@ -1,0 +1,15 @@
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\bin\Debug\Puzzle jigsaw.exe.config
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\bin\Debug\Puzzle jigsaw.exe
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\bin\Debug\Puzzle jigsaw.pdb
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.csprojAssemblyReference.cache
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\MainWindow.g.cs
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\App.g.cs
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw_MarkupCompile.cache
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw_MarkupCompile.lref
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\MainWindow.baml
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.g.resources
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle_jigsaw.Properties.Resources.resources
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.csproj.GenerateResource.cache
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.csproj.CoreCompileInputs.cache
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.exe
+C:\Users\Dator 6\source\repos\Puzzle jigsaw\Puzzle jigsaw\obj\Debug\Puzzle jigsaw.pdb
