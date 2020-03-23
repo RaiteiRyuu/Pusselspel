@@ -7,7 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="600">
     <Grid>
-        <Image Name ="imgPhoto" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" VerticalAlignment="Top" Width="402"/>
+        <Border BorderThickness="3"
+        BorderBrush="#FF000000"
+        VerticalAlignment="Top"
+        HorizontalAlignment="Left" 
+        Height="288" Margin="72,39,0,0"
+        Width="402">
+            <Image Name ="imgPhoto" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" VerticalAlignment="Top" Width="402"/>
+        </Border>
         <Button Content="New Puzzle" HorizontalAlignment="Left" Margin="496,10,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
         <Button Content="Load Puzzle" HorizontalAlignment="Left" Margin="496,40,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
         <Button Content="Save Puzzle" HorizontalAlignment="Left" Margin="496,70,0,0" VerticalAlignment="Top" Width="75"/>
