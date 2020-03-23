@@ -8,8 +8,13 @@
         Title="MainWindow" Height="450" Width="600">
     <Grid>
         <Image Name ="imgPhoto" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" VerticalAlignment="Top" Width="402"/>
-        <Button Content="Load Puzzle" HorizontalAlignment="Left" Margin="496,39,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
-        <Button Content="Save Puzzle" HorizontalAlignment="Left" Margin="496,93,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="New Puzzle" HorizontalAlignment="Left" Margin="496,10,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
+        <Button Content="Load Puzzle" HorizontalAlignment="Left" Margin="496,40,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
+        <Button Content="Save Puzzle" HorizontalAlignment="Left" Margin="496,70,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Rotate" HorizontalAlignment="Left" Margin="496,100,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Tutorial" HorizontalAlignment="Left" Margin="496,130,0,0" VerticalAlignment="Top" Width="75"/>
+
+
 
     </Grid>
 </Window>
