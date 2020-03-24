@@ -35,5 +35,20 @@ namespace Puzzle_jigsaw
                 imgPhoto.Source = new BitmapImage(new Uri(open_File.FileName));
             }
         }
+
+        private void ListViewItem_MouseEnter(object sender, MouseEventArgs e)
+        {
+            //ToolTip visibility
+            if (toggle_Btn.IsChecked == true)
+            {
+                tt_puzzle.Visibility = Visibility.Collapsed;
+                tt_Folder.Visibility = Visibility.Collapsed;
+            }
+            else
+            {
+                tt_puzzle.Visibility = Visibility.Visible;
+                tt_Folder.Visibility = Visibility.Visible;
+            }
+        }
     }
 }

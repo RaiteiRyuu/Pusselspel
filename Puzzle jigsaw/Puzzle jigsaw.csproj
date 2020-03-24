@@ -95,7 +95,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
+    <Resource Include="Assets\menu_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\background.png" />
+    <Resource Include="Assets\folder.png" />
+    <Resource Include="Assets\image.png" />
+    <Resource Include="Assets\loading.png" />
+    <Resource Include="Assets\menu.png" />
+    <Resource Include="Assets\puzzle.png" />
+    <Resource Include="Assets\puzzle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\save.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
