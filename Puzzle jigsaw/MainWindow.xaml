@@ -5,10 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Puzzle_jigsaw"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="600">
+        Title="MainWindow" Height="450" Width="600" Loaded="Window_Loaded">
     <Grid>
-        <Border BorderThickness="2" BorderBrush="#FF000000" VerticalAlignment="Top" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" Width="402">
-            <Image Name ="imgPhoto" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" VerticalAlignment="Top" Width="402"/>
+        <Label x:Name="TimerLabel" Content="0" FontFamily="Segoe UI" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top"></Label>
+        <Border BorderThickness="2" BorderBrush="#FF000000" VerticalAlignment="Top" HorizontalAlignment="Left" Height="288" Margin="72,39,0,0" Width="405">
+            <Image Name ="imgPhoto" HorizontalAlignment="Left" Height="288" Margin="-2,8,-2,-12" VerticalAlignment="Top" Width="402" RenderTransformOrigin="0.194,0.16"/>
         </Border>
         <Button Content="New Puzzle" HorizontalAlignment="Left" Margin="496,39,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
         <Button Content="Load Puzzle" HorizontalAlignment="Left" Margin="496,69,0,0" VerticalAlignment="Top" Width="75" Click="onclick"/>
